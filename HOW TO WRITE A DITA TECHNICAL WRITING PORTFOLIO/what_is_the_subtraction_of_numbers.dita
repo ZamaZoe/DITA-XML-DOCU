@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_the_subtraction_of_numbers">
+    <title>What is the Subtraction of Numbers</title>
+    <shortdesc>Here you learn what is subtraction.</shortdesc>
+    <conbody>
+        <p>And now what I want to do is to add some supporting concept information.</p>
+        <p>I would like to put it somewhere here close to the subtract functionality to make it
+            clear what this concept is related to, but my first step is to simply create this
+            topic.</p>
+        <p>and I am going to file new. And in the list of file templates, I enter concept. What I
+            want to use is a concept DITA topic type, so I select this one and now I have to enter
+            the title for my conceptual type of topic, I will simply use a copy paste.</p>
+    </conbody>
+</concept>
